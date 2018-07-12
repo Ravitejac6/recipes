@@ -1,0 +1,23 @@
+.des h1{
+    text-align: right;
+    color:gray;
+    font-size: 1000%;
+}
+.des h2{
+    font-size: 500%;
+    text-align: right;
+    color:gray;
+    border-bottom:1px solid black; 
+}
+img{
+    margin:0 10px 20px 50%;
+    width:10%;
+}
+#pos{
+    max-resolution: left 40px;
+}
+.des h3{
+    text-align: center;
+    font-size:350%;
+    color:gray;
+}
